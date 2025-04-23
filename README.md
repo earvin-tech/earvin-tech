@@ -16,8 +16,9 @@ React • Vite • Tailwind CSS • Express.js • MongoDB • TypeScript • Py
 ---
 
 ### 📬 Connect With Me
-[🔗 LinkedIn](https://linkedin.com/in/earvin-tumpao){:target="_blank"}
-[🌐 Portfolio](https://www.earvintumpao.dev){:target="_blank"}
+<a href="https://linkedin.com/in/earvin-tumpao" style="text-decoration: none;" target="_blank">🔗 LinkedIn<a/>
+
+<a href="https://www.earvintumpao.dev" style="text-decoration: none;" target="_blank">🌐 Portfolio<a/>
 
 ---
 
